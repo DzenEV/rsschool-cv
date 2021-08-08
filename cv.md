@@ -1,7 +1,7 @@
 # Evgenii Dzen
 ## Contact Information:
 ---
-* Location: Belarus, Polotsk  
+* Location: Belarus, Polotsk   
 * tel: +375292135453 
 * email: Cheemanok8777@gmail.com 
 ---
