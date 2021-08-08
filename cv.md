@@ -6,7 +6,7 @@
 * email: Cheemanok8777@gmail.com 
 ---
 ## About myself:
-Thirst and learning ability, the ability to deeply immerse yourself in the essence of the task, work in the team for the result, efficiency, punctuality, discipline, ability to adapt, responsibility, determination, analytical abilities, purposefulness, high performance.
+Thirst and learning ability, the ability to deeply immerse yourself in the essence of the task, work in the team for the result, efficiency, punctuality, discipline, ability to adapt, responsibility, determination, analytical abilities, purposefulness, high performance. 
 
 ## Skills:
 ---
