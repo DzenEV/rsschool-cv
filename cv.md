@@ -1,9 +1,11 @@
 # Evgenii Dzen
 ## Contact Information:
 ---
+
 * Location: Belarus, Polotsk   
 * tel: +375292135453 
 * email: Cheemanok8777@gmail.com 
+
 ---
 ## About myself:
 Thirst and learning ability, the ability to deeply immerse yourself in the essence of the task, work in the team for the result, efficiency, punctuality, discipline, ability to adapt, responsibility, determination, analytical abilities, purposefulness, high performance. 
@@ -44,5 +46,5 @@ No
 [RSSchool](https://rs.school/) \
 [code-basics](https://code-basics.com)
 ## English Language: 
-Began To Study
+Began to study
 
