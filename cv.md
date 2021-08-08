@@ -1,4 +1,5 @@
 # Evgenii Dzen
+---
 ## Contact Information:
 ---
 
@@ -6,8 +7,8 @@
 * tel: +375292135453 
 * email: Cheemanok8777@gmail.com 
 
----
 ## About myself:
+---
 Thirst and learning ability, the ability to deeply immerse yourself in the essence of the task, work in the team for the result, efficiency, punctuality, discipline, ability to adapt, responsibility, determination, analytical abilities, purposefulness, high performance. 
 
 ## Skills:
@@ -19,6 +20,7 @@ Thirst and learning ability, the ability to deeply immerse yourself in the essen
 * VSCode, Adobe Photoshop
  
 ## Examples of code: 
+---
 ```
 function isValidWalk(walk) {
   var dx = 0;
@@ -39,12 +41,15 @@ function isValidWalk(walk) {
 }
  ```    
 ## Work experience:
+---
 No
 ## Education:
+---
 [Lectures CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA) \
 [Sololearn](https://www.sololearn.com) \
 [RSSchool](https://rs.school/) \
 [code-basics](https://code-basics.com)
 ## English Language: 
+---
 Began to study
 
