@@ -15,7 +15,7 @@ Thirst and learning ability, the ability to deeply immerse yourself in the essen
 * Javascripts(beginning)
 * Git
 * VSCode, Adobe Photoshop
-
+ 
 ##Examples of code:
 ```
 function isValidWalk(walk) {
