@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dzen Evgenii CV</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <aside class="aside">
+            <div class="foto">
+                <img src="img/my.jpg" alt="Мое фото">
+            </div>
+            <section class="nav">
+                <h2>курсы</h2>
+                <div class="divider__eyllow"></div>
+                <ul>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA">Лекции CS50</a>
+                    </li>
+                    <li>
+                        <a href="https://www.sololearn.com">Sololearn</a>
+                    </li>
+                    <li>
+                        <a href="https://rs.school/">RSSchool</a>
+                    </li>
+                    <li>
+                        <a href="https://code-basics.com">Code-Basics</a>
+                    </li>
+                </ul>
+            </section>
+            <section class="nav">
+                <h2>контакты</h2>
+                <div class="divider__eyllow"></div>
+                <ul>
+                    <li>
+                        <a href="tel:+37529213543">+375 29 213 54 53</a>
+                    </li>
+                    <li>
+                        <a href="mailto:Cheemanok8777@gmail.com">GMAIL</a>
+                    </li>
+                </ul>
+            </section>
+            <section class="nav">
+                <h2>Навыки</h2>
+                <div class="divider__eyllow"></div>
+                <ul>
+                    <li class="html">
+                        HTML
+                    </li>
+                    <li class="css">
+                        CSS
+                    </li>
+                    <li class="sass">
+                        SASS
+                    </li>
+                    <li class="javascript">
+                        javascript
+                    </li>
+                    <li class="git">
+                        Git/GitHub
+
+                    </li>
+                </ul>
+            </section>
+        </aside>
+        <main class="main">
+            <header class="header">
+                <div class="name">
+                    <span>евгений дзен</span>
+                </div>
+                <div class="prof">будущий фронтенд разработчик</div>
+            </header>
+            <div class="main__list">
+                <section class="info">
+                    <h2>обо мне</h2>
+                    <div class="divider__black"></div>
+                    <p>Жажда и обучаемость, умение глубоко погрузиться в суть поставленной задачи,
+                        работа в команде на результат, оперативность, пунктуальность, дисциплина, умение адаптироваться,
+                        ответственность, целеустремленность, аналитические способности, целеустремленность, высокая
+                        работоспособность. </p>
+                    <h2>языки</h2>
+                    <ul>
+                        <li>русский</li>
+                        <li>английский (начал изучать)</li>
+                    </ul>
+                </section>
+                <section class="info">
+                    <h2>пример кода</h2>
+                    <div class="divider__black"></div>
+                    <pre>
+                        <code>
+                            function isValidWalk(walk) {
+                                var dx = 0;
+                                var dy = 0;
+                                var dt = walk.length;
+                              
+                                for (var i = 0; i < walk.length; i++) {
+                                  switch (walk[i]) {
+                                    case 'n': dy--; break;
+                                    case 's': dy++; break;
+                                    case 'w': dx--; break;
+                                    case 'e': dx++; break;
+                                  }
+                                }
+                              
+                                return dt === 10 && dx === 0 && dy === 0;
+                              
+                              }
+                        </code>
+                    </pre>
+                </section>
+            </div>
+            <footer class="footer">
+                <div class="git">
+                    <a href="www.github.com" target="_blank"></a>
+                    <img src="icon/github.svg" alt="Логотип GitHub">
+                </div>
+                <div class="rs">
+                    <a href="www.rs.school/js/" target="_blank"></a>
+                    <img src="icon/rs_school_js.svg" alt="RS-school - логотип">
+                </div>
+                <div class="date">
+                    <p>Сделано <br> в <br> 2021</p>
+                </div>
+            </footer>
+        </main>
+    </div>
+
+</body>
+
+</html>
